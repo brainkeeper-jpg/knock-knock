@@ -38,7 +38,7 @@
 }
 
 .visual-refresh .theme-dark, .theme-dark, .visual-refresh.theme-dark, .visual-refresh {
-  --header-primary: #000;
+  --header-primary: #fff;
   --header-secondary: #bbb;
   --text-normal: #fff;
   --text-default: #ddd;
